@@ -32,14 +32,10 @@ while(True):
     
     bil1=int(input("Masukkan bilangan ke-1 : "))
     bil2=int(input("Masukkan bilangan ke-2 : "))
-    bil3=int(input("Masukkan bilangan ke-3 : "))
+    bil3=int(input("Masukkan bilangan ke-3 : "))    
     bil4=int(input("Masukkan bilangan ke-4 : "))
     bil5=int(input("Masukkan bilangan ke-5 : "))
-    bil6=int(input("Masukkan bilangan ke-6 : "))
-    bil7=int(input("Masukkan bilangan ke-7 : "))
-    bil8=int(input("Masukkan bilangan ke-8 : "))
-    bil9=int(input("Masukkan bilangan ke-9 : "))
-    bil10=int(input("Masukkan bilangan ke-10 : "))
+
 
 
     print("=========================")
@@ -48,7 +44,7 @@ while(True):
     print("2.Sorting Descending")
 
     
-    bil=[bil1,bil2,bil3,bil4,bil5,bil6,bil7,bil8,bil9,bil10]
+    bil=[bil1,bil2,bil3,bil4,bil5]
     
     
     pilih=input("Metode yang dipilih : ")
